@@ -94,7 +94,7 @@ section {
   display: flex;
   gap: 1.5rem;
   min-height: 100vh;
-  background: url("../images01/home-bg.jpg") no-repeat center center/cover;
+  background: url("./home-bg.jpg") no-repeat center center/cover;
   align-items: center;
   background-size: cover;
   background-position: center;
